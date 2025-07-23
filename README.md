@@ -136,12 +136,12 @@ class ProductsViewModel : ViewModel() {
 
 - **Track:** Android (Jetpack Compose)
 - **GitHub:** [👉 View the Repository](https://github.com/Mohamed-Ehab-Elsawy/leverage_AI_Task)
-- **Video Demo:** [🎨 Watch here](https://link-to-your-video.com)
+- **Video Demo:** [🎨 Watch here](https://drive.google.com/file/d/1IgqHqe2QUwU4fstIJNtpE3ZhCuoGEc-j/view?usp=drive_link)
 
 ---
 
 ## 👨‍💻 Author
 
 **Mohamed Ehab**\
-[LinkedIn]([https://www.linkedin.com/in/mohamed-ehab003/) | [Email](mailto\:mohamedehabelsawy03@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohamed-ehab003/) | [Email](mailto\:mohamedehabelsawy03@gmail.com)
 
