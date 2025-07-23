@@ -8,7 +8,7 @@ This project is a demo food application built with **Android (Kotlin)** and **Je
 
 | Design Reference | My Implementation |
 | ---------------- | ----------------- |
-|                  |                   |
+| ![Design](screenshots/original_design.jpg) | ![My UI](screenshots/my_implementation.png) |
 
 ---
 
@@ -83,7 +83,7 @@ class ProductsViewModel : ViewModel() {
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/leverage-ai-task.git
+   git clone https://github.com/Mohamed-Ehab-Elsawy/leverage_AI_Task.git
    ```
 
 2. Open in **Android Studio Hedgehog** or newer.
@@ -135,7 +135,7 @@ class ProductsViewModel : ViewModel() {
 ## 🎥 Task Submission
 
 - **Track:** Android (Jetpack Compose)
-- **GitHub:** [👉 View the Repository](https://github.com/YOUR_USERNAME/leverage-ai-task)
+- **GitHub:** [👉 View the Repository](https://github.com/Mohamed-Ehab-Elsawy/leverage_AI_Task)
 - **Video Demo:** [🎨 Watch here](https://link-to-your-video.com)
 
 ---
@@ -143,6 +143,5 @@ class ProductsViewModel : ViewModel() {
 ## 👨‍💻 Author
 
 **Mohamed Ehab**\
-Computer Science Student - New Cairo Academy\
-[LinkedIn](https://linkedin.com/in/YOUR_LINK) | [Email](mailto\:YOUR_EMAIL)
+[LinkedIn]([https://www.linkedin.com/in/mohamed-ehab003/) | [Email](mailto\:mohamedehabelsawy03@gmail.com)
 
